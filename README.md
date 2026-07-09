@@ -93,17 +93,5 @@ Confidence Score: 0.9998983
 
 The model successfully classified both images with high confidence.
 
----
-
-## Applications
-
-This project can be applied in smart agriculture systems, including:
-
-- Automatic tomato ripeness detection.
-- Supporting farmers in selecting the suitable harvesting time.
-- Automated sorting and quality control in agricultural production.
-- Camera-based crop monitoring systems.
-
----
 
 
